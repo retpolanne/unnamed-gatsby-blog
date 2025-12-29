@@ -1,0 +1,3 @@
+[submodule "src/classicy"]
+	path = src/classicy
+	url = https://github.com/robbiebyrd/classicy

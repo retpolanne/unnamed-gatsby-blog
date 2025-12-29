@@ -1,0 +1,16 @@
+{
+  "plugins": [
+    ["module-resolver", {
+      "loglevel": "debug",
+      "root": ["./src"],
+      "alias": {
+        "classicy": "./src/classicy/src/app/SystemFolder",
+      }
+    }]
+  ],
+  "presets": [
+    [
+      "babel-preset-gatsby"
+    ]
+  ]
+}
