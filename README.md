@@ -2,4 +2,6 @@
 
 ## Installation
 
-1. Then, on non-photo-blue run `yarn develop`
+0. On non-photo-blue/src/classicy and `npm install` then `npm run build`
+1. `rm -rf node_modules`
+
